@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/5letter_guessword/static/css/main.aebc95ce.css",
+    "main.js": "/5letter_guessword/static/js/main.322936aa.js",
+    "static/js/453.caf94090.chunk.js": "/5letter_guessword/static/js/453.caf94090.chunk.js",
+    "index.html": "/5letter_guessword/index.html",
+    "main.aebc95ce.css.map": "/5letter_guessword/static/css/main.aebc95ce.css.map",
+    "main.322936aa.js.map": "/5letter_guessword/static/js/main.322936aa.js.map",
+    "453.caf94090.chunk.js.map": "/5letter_guessword/static/js/453.caf94090.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aebc95ce.css",
+    "static/js/main.322936aa.js"
+  ]
+}
