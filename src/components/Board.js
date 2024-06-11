@@ -17,6 +17,8 @@ for (let i = 0; i < 6; i++) {
     for (let j = 0; j < 5; j++) {
         defaulBoard[i].push(["", ""]);
     }
+    //Тестовое
+    console.log(correct)
 }
 
 function Board(props) {
@@ -86,7 +88,7 @@ function Board(props) {
                                     if (correctLetters === 5) {
                                         setWin(true);
                                         setTimeout(() => {
-                                            setMessage("Вы победили! Обновите страницу для новой игры!");
+                                            setMessage("Вы победили!");
                                         }, 750);
                                     }
                                     return prevBoard;
